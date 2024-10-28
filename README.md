@@ -1,4 +1,4 @@
-# Maze Generator Script
+# Maze Generator
 
 This script generates a customizable maze layout using a grid-based approach.
 The maze is initialized with a starting and ending point, which are marked
